@@ -78,3 +78,6 @@ cypress/screenshots
 cypress/videos
 /tests/e2e/videos/
 /tests/e2e/screenshots/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
